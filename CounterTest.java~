@@ -1,0 +1,10 @@
+public class CounterTest{
+ 
+  
+  public static void main (String[] args)  { // Creates the Counter object
+    new CounterConsoleMenu();
+ }
+  
+  
+  
+}
